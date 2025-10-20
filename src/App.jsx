@@ -113,7 +113,7 @@ Maelstrom was Denis's second feature film and possibly the best one from his ear
                 Aditya Choudhary
               </h2>
               <p className="text-xl text-gray-300 max-w-2xl">
-                Writer & Director. I gravitate toward difficult things—dense narratives, experimental forms, uncompromising voices. I make work that demands something from the viewer, and from myself.
+                Aspiring Writer & Director. I work across screenplays, essays, strategy, design. Good at figuring things out and executing. Driven by arthouse cinema and unafraid of ambitious ideas.
               </p>
               <div className="pt-4">
                 <a href="#work" className="inline-flex items-center gap-2 text-sm border border-white px-6 py-3 hover:bg-white hover:text-black transition">
@@ -151,13 +151,13 @@ Maelstrom was Denis's second feature film and possibly the best one from his ear
           <div className="grid md:grid-cols-2 gap-12">
             <div className="space-y-4 text-gray-300">
               <p>
-                I'm drawn to filmmakers who refuse compromise—who build complex formal structures, who trust the audience, who prioritize vision over accessibility. Malick, Noé, Lynch, Tarkovsky. Not because they're difficult for difficulty's sake, but because difficulty is honesty.
+                I write. I write screenplays, essays, strategy docs, whatever needs to be written. I can work in registers from the cerebral to the populist, and I'm comfortable with both. The work is what matters.
               </p>
               <p>
-                I write across registers. I can navigate the pretentious and the populist, the philosophical and the visceral. I work with clarity and precision, whether the medium is a screenplay, an essay, or a strategic brief.
+                I'm influenced by filmmakers who know what they're doing—Malick, Tarkovsky, Lynch, Noé. I watch a lot. I think about form and structure constantly. I believe in doing things properly or not at all.
               </p>
               <p>
-                Currently developing <em>Princess of the Desert</em>, a 40-year feature exploring patriarchy, systems, and what it costs to break from intimacy. Writing essays on cinema. Building the work.
+                Right now I'm developing Princess of the Desert, a 40-year feature that interrogates patriarchy and systems through an intimate story. Beyond that—writing, thinking, building whatever comes next.
               </p>
             </div>
             <div className="space-y-4">
